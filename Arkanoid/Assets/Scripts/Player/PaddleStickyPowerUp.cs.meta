@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50a7d23a50125824bb2b30786a59a1d7
+timeCreated: 1543410107
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HaloPrefab: {fileID: 1882216129482150, guid: 68a239124a5fa8747ac1e0be5bd22556,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
